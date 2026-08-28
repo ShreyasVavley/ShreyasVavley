@@ -1,113 +1,226 @@
 ﻿<div align="center">
 
-# Hi there, I'm Shreyas Vavley 👋
-### 🚀 AI/ML Engineer & Full-Stack Developer | CSE (AIML) Undergraduate
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreyas-s-v-9748a1379/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ShreyasVavley)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shreyasvavley@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white)](https://shreyasvavley.github.io)
+# ⚡ Shreyas Vavley
+### **Software Engineer & AI Developer | AI & Full-Stack Architect**
+#### 📍 Bengaluru, India 🇮🇳 &nbsp;|&nbsp; 🎓 CSE (AIML) @ Sapthagiri NPS University
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+Intelligent+Agentic+Systems;Specializing+in+AI+%26+Machine+Learning;Full-Stack+Web+%26+Civic-Tech+Innovator;Passionate+about+Cybersecurity+%26+ML" alt="Typing SVG" />
+<p align="center">
+  <a href="https://shreyasvavley.me"><img src="https://img.shields.io/badge/🌐_Portfolio-shreyasvavley.me-ef4444?style=for-the-badge&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/shreyas-s-v-9748a1379/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:shreyasvavley@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://github.com/ShreyasVavley"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2800&pause=1000&color=EF4444&center=true&vCenter=true&width=750&lines=Architecting+Intelligent+Agentic+Systems+%26+RAG;AWS+Student+Builder+Campus+Leader+2026;Building+Scalable+Full-Stack+Web+%26+Civic-Tech;Specializing+in+Computer+Vision+%26+LLM+Security" alt="Typing SVG" />
 
 </div>
 
 ---
 
-### 👨‍💻 About Me
+### 🚀 Engineering Command Center
 
-- 🎓 **Education:** B.E. in **Computer Science & Engineering (AI & Machine Learning)** at **Sapthagiri NPS University**, Bengaluru *(Class of 2028)*
-- 💡 **Passion:** Designing and building intelligent agentic systems, real-time AI applications, and civic-tech solutions that solve real-world problems.
-- 🛠️ **Current Focus:** Scaling Agentic RAG workflows with LangGraph & building autonomous developer agents.
-- 🏆 **Hackathon Milestone:** Built the **Public Grievance Portal** for the **Build for Bengaluru 2.0** hackathon.
-- 🔒 **Security Interest:** Investigating the intersection of AI, LLM Security, and Penetration Testing.
-- 📍 **Location:** Bengaluru, India 🇮🇳
+```yaml
+biometrics:
+  name: "Shreyas Vavley"
+  role: "AI Developer & Full-Stack Engineer"
+  leadership: "AWS Student Builder Campus Leader (2026)"
+  education: "B.E. in Computer Science & Engineering (AIML) | Sapthagiri NPS University ('28)"
+  location: "Bengaluru, Karnataka, India [12.9716° N, 77.5946° E]"
+  status: "🟢 Available for high-impact AI/ML & Software Engineering Roles"
 
----
-
-### 📂 Featured Projects
-
-| Project | Description | Tech Stack | Repository |
-| :--- | :--- | :--- | :---: |
-| **[WebHub AI Platform](https://github.com/ShreyasVavley/webhub-ai-platform)** | Multi-tenant AI website builder with modern dashboard & automated generation. | `Next.js 15` `Supabase` `Razorpay` `Tailwind` | [Code ↗](https://github.com/ShreyasVavley/webhub-ai-platform) |
-| **[Public Grievance Portal](https://github.com/ShreyasVavley/Public-Grievance-Portal)** | Civic-tech complaint management solution built for **Build for Bengaluru 2.0**. | `Next.js` `FastAPI` `PostgreSQL` | [Code ↗](https://github.com/ShreyasVavley/Public-Grievance-Portal) |
-| **[Nexus Stream OTT](https://github.com/ShreyasVavley/nexus-stream-premium-ott-2026-v2)** | Premium cinematic streaming platform with glassmorphic UI & real-time search. | `FastAPI` `JavaScript` `CSS3` | [Code ↗](https://github.com/ShreyasVavley/nexus-stream-premium-ott-2026-v2) |
-| **[Second Brain RAG](https://github.com/ShreyasVavley/second-brain)** | Knowledge management system for local document intelligence and semantic search. | `FastAPI` `ChromaDB` `React` `Python` | [Code ↗](https://github.com/ShreyasVavley/second-brain) |
-| **[Pro Face Recognition](https://github.com/ShreyasVavley/Pro-Face-Recognition-with-DeepFace)** | High-accuracy real-time facial verification and identity recognition system. | `Python` `DeepFace` `OpenCV` | [Code ↗](https://github.com/ShreyasVavley/Pro-Face-Recognition-with-DeepFace) |
-| **[WhatsApp Pro Analyzer](https://github.com/ShreyasVavley/whatsapp-pro-analyzer)** | Interactive chat analytics dashboard with sentiment analysis and visual insights. | `Streamlit` `Pandas` `Plotly` | [Code ↗](https://github.com/ShreyasVavley/whatsapp-pro-analyzer) |
-| **[Interview Evaluator](https://github.com/ShreyasVavley/Real-Time-Interview-Evaluator)** | Real-time candidate response evaluation and automated technical feedback system. | `Python` `AI / NLP` `FastAPI` | [Code ↗](https://github.com/ShreyasVavley/Real-Time-Interview-Evaluator) |
+current_focus:
+  - "Designing Multi-Agent Autonomous Workflows using LangGraph & Agentic RAG"
+  - "Building production Next.js 15 / FastAPI platforms with microservice backends"
+  - "Exploring Applied Machine Learning, Edge AI, and LLM Threat Security"
+```
 
 ---
 
-### 🛠️ Tech Stack & Skills
+### 📂 Featured Arsenal & Flagship Systems
 
-<p align="left">
-  <b>Languages:</b><br/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
-</p>
-
-<p align="left">
-  <b>AI / Machine Learning / Data:</b><br/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/ChromaDB-000000?style=flat-square&logo=database&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white" />
-</p>
-
-<p align="left">
-  <b>Web, Frameworks & Backend:</b><br/>
-  <img src="https://img.shields.io/badge/Next.js%2015-000000?style=flat-square&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-</p>
-
-<p align="left">
-  <b>Databases & Cloud / Tools:</b><br/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-</p>
+<table>
+  <thead>
+    <tr>
+      <th width="35%">Project</th>
+      <th width="45%">Description</th>
+      <th width="20%">Tech Stack</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <b><a href="https://github.com/ShreyasVavley/webhub-ai-platform">🌐 WebHub AI Platform</a></b><br/>
+        <sub>Multi-Tenant AI Website Builder</sub>
+      </td>
+      <td>
+        AI-driven multi-tenant SaaS website builder featuring automated design synthesis, tenant provisioning, Razorpay billing, and an interactive CMS dashboard.
+      </td>
+      <td>
+        <code>Next.js 15</code> <code>Supabase</code> <code>TypeScript</code> <code>Razorpay</code> <code>Tailwind</code>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b><a href="https://github.com/ShreyasVavley/Public-Grievance-Portal">🏛️ Public Grievance Portal</a></b><br/>
+        <sub>Civic-Tech Complaint Management</sub>
+      </td>
+      <td>
+        Civic-tech governance platform engineered for <b>Build for Bengaluru 2.0</b> to streamline citizen complaints, automate issue triaging, and accelerate resolution cycles.
+      </td>
+      <td>
+        <code>Next.js</code> <code>FastAPI</code> <code>PostgreSQL</code> <code>REST API</code>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b><a href="https://github.com/ShreyasVavley/nexus-stream-premium-ott-2026-v2">🎬 Nexus Stream OTT</a></b><br/>
+        <sub>Cinematic Streaming Engine</sub>
+      </td>
+      <td>
+        High-performance cinematic video platform built with a glassmorphic aesthetic, subscription state flows, and lightning-fast full-text search capabilities.
+      </td>
+      <td>
+        <code>FastAPI</code> <code>Python</code> <code>Vanilla JS</code> <code>Glassmorphism</code>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b><a href="https://github.com/ShreyasVavley/Real-Time-Interview-Evaluator">🎙️ Real-Time Interview Evaluator</a></b><br/>
+        <sub>AI Candidate Analytics System</sub>
+      </td>
+      <td>
+        Real-time candidate evaluation application combining computer vision, speech recognition, and NLP to assess interview performance, technical clarity, and engagement.
+      </td>
+      <td>
+        <code>Python</code> <code>OpenCV</code> <code>TensorFlow</code> <code>NLP</code> <code>FastAPI</code>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b><a href="https://github.com/ShreyasVavley/second-brain">🧠 Second Brain RAG</a></b><br/>
+        <sub>Document Intelligence & Knowledge Graph</sub>
+      </td>
+      <td>
+        Local document intelligence and semantic search engine powered by Retrieval-Augmented Generation (RAG) and dense vector embeddings.
+      </td>
+      <td>
+        <code>FastAPI</code> <code>ChromaDB</code> <code>React</code> <code>LangChain</code> <code>Python</code>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b><a href="https://github.com/ShreyasVavley/Pro-Face-Recognition-with-DeepFace">👁️ Pro Face Recognition</a></b><br/>
+        <sub>Biometric Verification System</sub>
+      </td>
+      <td>
+        Real-time facial identification and biometric verification pipeline leveraging state-of-the-art DeepFace and OpenCV models.
+      </td>
+      <td>
+        <code>Python</code> <code>DeepFace</code> <code>OpenCV</code> <code>Keras</code>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b><a href="https://github.com/ShreyasVavley/whatsapp-pro-analyzer">📊 WhatsApp Pro Analyzer</a></b><br/>
+        <sub>Chat Analytics & Sentiment Intelligence</sub>
+      </td>
+      <td>
+        Interactive data science dashboard transforming exported chat histories into deep visual analytics, message frequency metrics, and sentiment distribution curves.
+      </td>
+      <td>
+        <code>Streamlit</code> <code>Pandas</code> <code>Plotly</code> <code>NLP</code>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
-### 📊 GitHub Analytics & Streak
+### 🛠️ Technical Matrix & Skill Radar
+
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🤖 AI, Machine Learning & Vision</h4>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,scikitlearn&theme=dark" />
+      </a>
+      <br/><br/>
+      <code>LangGraph</code> <code>LangChain</code> <code>ChromaDB</code> <code>DeepFace</code> <code>NLP</code> <code>RAG</code> <code>Prompt Engineering</code>
+    </td>
+    <td width="50%" valign="top">
+      <h4>💻 Languages & Core</h4>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,ts&theme=dark" />
+      </a>
+      <br/><br/>
+      <code>Python 3.12+</code> <code>Java (OOP / Swing)</code> <code>C++</code> <code>TypeScript</code> <code>SQL</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🌐 Full-Stack & Web Architecture</h4>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=nextjs,react,fastapi,nodejs,express,tailwind,html,css&theme=dark" />
+      </a>
+      <br/><br/>
+      <code>Next.js 15</code> <code>React 19</code> <code>REST APIs</code> <code>Streamlit</code> <code>Three.js</code> <code>Framer Motion</code>
+    </td>
+    <td width="50%" valign="top">
+      <h4>☁️ Cloud, Databases & DevOps</h4>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=aws,postgres,supabase,mongodb,docker,git,github,vercel,linux&theme=dark" />
+      </a>
+      <br/><br/>
+      <code>PostgreSQL</code> <code>Supabase</code> <code>Prisma ORM</code> <code>Docker</code> <code>CI/CD Pipelines</code> <code>Linux/Bash</code>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📜 Verified Credentials & Certifications
+
+- 🏆 **Advanced Software Engineering** — *Walmart Global Tech (Forage)*
+- 🛡️ **Cybersecurity Analyst** — *Tata (Forage)*
+- 🔒 **Cyber Job Simulation** — *Deloitte Australia (Forage)*
+- ☁️ **Introduction to Generative AI Studio** — *Google Cloud / Simplilearn*
+- 🌐 **Introduction to Cybersecurity** — *Cisco Networking Academy*
+- 🧠 **OCI 2025 AI Foundations Associate** — *Oracle University*
+
+---
+
+### 📊 GitHub Activity & Metrics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ShreyasVavley&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Shreyas's GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyasVavley&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-  <br/>
-  <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=ShreyasVavley&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ShreyasVavley&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&title_color=ef4444&icon_color=ef4444" alt="Shreyas's Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyasVavley&layout=compact&theme=tokyonight&hide_border=true&title_color=ef4444" alt="Top Languages" />
+  <br/><br/>
+  <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=ShreyasVavley&theme=tokyonight&hide_border=true&stroke=ef4444&ring=ef4444&fire=ef4444" alt="GitHub Streak" />
 </div>
 
 ---
 
-### 🤝 Let's Connect!
+### 🤝 Connect & Collaborate
 
 <div align="center">
-  
-  📫 Reach out via email: **[shreyasvavley@gmail.com](mailto:shreyasvavley@gmail.com)**  
-  🌐 Connect on LinkedIn: **[Shreyas S V](https://www.linkedin.com/in/shreyas-s-v-9748a1379/)**  
-  💻 Explore my repositories: **[github.com/ShreyasVavley](https://github.com/ShreyasVavley)**  
 
-  <br/>
-  
-  <img src="https://visitcount.itsvg.in/api?id=ShreyasVavley&label=Profile%20Views&color=1&icon=5&pretty=true" alt="Profile Views" />
+  <b>Let's build something game-changing together!</b>
+  <br/><br/>
+
+  <a href="https://shreyasvavley.me">
+    <img src="https://img.shields.io/badge/Website-shreyasvavley.me-ef4444?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/shreyas-s-v-9748a1379/">
+    <img src="https://img.shields.io/badge/LinkedIn-Shreyas_S_V-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:shreyasvavley@gmail.com">
+    <img src="https://img.shields.io/badge/Email-shreyasvavley%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <br/><br/>
+  <img src="https://visitcount.itsvg.in/api?id=ShreyasVavley&label=Profile%20Views&color=6&icon=5&pretty=true" alt="Profile Views" />
 
 </div>
