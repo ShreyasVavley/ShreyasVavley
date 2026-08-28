@@ -1,0 +1,112 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 250" width="100%" height="250">
+  <defs>
+    <linearGradient id="cardBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#09090b"/>
+      <stop offset="100%" stop-color="#0e0e13"/>
+    </linearGradient>
+
+    <!-- Animated Red Gradient for Bars -->
+    <linearGradient id="barGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ef4444"/>
+      <stop offset="70%" stop-color="#f43f5e"/>
+      <stop offset="100%" stop-color="#fb7185"/>
+    </linearGradient>
+
+    <filter id="neonFilter" x="-10%" y="-10%" width="120%" height="120%">
+      <feGaussianBlur stdDeviation="3" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+  </defs>
+
+  <style>
+    @keyframes fillBar1 {
+      0% { width: 0px; }
+      100% { width: 570px; }
+    }
+    @keyframes fillBar2 {
+      0% { width: 0px; }
+      100% { width: 564px; }
+    }
+    @keyframes fillBar3 {
+      0% { width: 0px; }
+      100% { width: 540px; }
+    }
+    @keyframes fillBar4 {
+      0% { width: 0px; }
+      100% { width: 528px; }
+    }
+
+    @keyframes barGlow {
+      0%, 100% { filter: drop-shadow(0 0 4px rgba(239, 68, 68, 0.4)); }
+      50% { filter: drop-shadow(0 0 10px rgba(239, 68, 68, 0.8)); }
+    }
+
+    @keyframes scanLine {
+      0% { transform: translateY(0); opacity: 0; }
+      50% { opacity: 0.8; }
+      100% { transform: translateY(246px); opacity: 0; }
+    }
+
+    .bar-1 { animation: fillBar1 2s ease-out forwards, barGlow 3s infinite 2s; }
+    .bar-2 { animation: fillBar2 2s ease-out forwards, barGlow 3s infinite 2.2s; }
+    .bar-3 { animation: fillBar3 2s ease-out forwards, barGlow 3s infinite 2.4s; }
+    .bar-4 { animation: fillBar4 2s ease-out forwards, barGlow 3s infinite 2.6s; }
+    .scan-anim { animation: scanLine 6s ease-in-out infinite; }
+  </style>
+
+  <!-- Base Card -->
+  <rect width="846" height="246" x="2" y="2" rx="14" fill="url(#cardBg)" stroke="#27272a" stroke-width="1.5"/>
+
+  <!-- Scanning Sweep -->
+  <line x1="2" y1="0" x2="846" y2="0" stroke="#ef4444" stroke-width="1.5" opacity="0.3" class="scan-anim" />
+
+  <!-- Header Section -->
+  <g transform="translate(32, 34)">
+    <text x="0" y="0" fill="#ef4444" font-family="'Courier New', monospace" font-size="14" font-weight="900">[SYS_RADAR]</text>
+    <text x="110" y="0" fill="#ffffff" font-family="system-ui, -apple-system, sans-serif" font-size="14" font-weight="bold" letter-spacing="1">PRODUCTION PROFICIENCY &amp; ARCHITECTURE RADAR</text>
+    <text x="680" y="0" fill="#10b981" font-family="'Courier New', monospace" font-size="11" font-weight="bold">● OPTIMAL</text>
+  </g>
+
+  <!-- Skill 1: AI & Agentic Systems -->
+  <g transform="translate(32, 60)">
+    <text x="0" y="16" fill="#e4e4e7" font-family="'Courier New', monospace" font-size="11" font-weight="bold">01 // AI &amp; Agentic RAG Systems (LangGraph, LLMs, Vector DBs)</text>
+    <text x="740" y="16" fill="#ef4444" font-family="'Courier New', monospace" font-size="12" font-weight="900">95%</text>
+    <!-- Background track -->
+    <rect x="0" y="24" width="600" height="7" rx="3.5" fill="#27272a"/>
+    <!-- Fill bar -->
+    <rect x="0" y="24" height="7" rx="3.5" fill="url(#barGrad)" class="bar-1" filter="url(#neonFilter)"/>
+  </g>
+
+  <!-- Skill 2: Full-Stack Architecture -->
+  <g transform="translate(32, 105)">
+    <text x="0" y="16" fill="#e4e4e7" font-family="'Courier New', monospace" font-size="11" font-weight="bold">02 // Full-Stack Web Architecture (Next.js 15, FastAPI, TypeScript, Postgres)</text>
+    <text x="740" y="16" fill="#ef4444" font-family="'Courier New', monospace" font-size="12" font-weight="900">94%</text>
+    <!-- Background track -->
+    <rect x="0" y="24" width="600" height="7" rx="3.5" fill="#27272a"/>
+    <!-- Fill bar -->
+    <rect x="0" y="24" height="7" rx="3.5" fill="url(#barGrad)" class="bar-2" filter="url(#neonFilter)"/>
+  </g>
+
+  <!-- Skill 3: Computer Vision & Biometrics -->
+  <g transform="translate(32, 150)">
+    <text x="0" y="16" fill="#e4e4e7" font-family="'Courier New', monospace" font-size="11" font-weight="bold">03 // Computer Vision &amp; Deep Learning (DeepFace, OpenCV, PyTorch)</text>
+    <text x="740" y="16" fill="#ef4444" font-family="'Courier New', monospace" font-size="12" font-weight="900">90%</text>
+    <!-- Background track -->
+    <rect x="0" y="24" width="600" height="7" rx="3.5" fill="#27272a"/>
+    <!-- Fill bar -->
+    <rect x="0" y="24" height="7" rx="3.5" fill="url(#barGrad)" class="bar-3" filter="url(#neonFilter)"/>
+  </g>
+
+  <!-- Skill 4: Cloud & DevOps -->
+  <g transform="translate(32, 195)">
+    <text x="0" y="16" fill="#e4e4e7" font-family="'Courier New', monospace" font-size="11" font-weight="bold">04 // Cloud, Microservices &amp; DevOps (AWS Cloud, Docker, CI/CD, Linux)</text>
+    <text x="740" y="16" fill="#ef4444" font-family="'Courier New', monospace" font-size="12" font-weight="900">88%</text>
+    <!-- Background track -->
+    <rect x="0" y="24" width="600" height="7" rx="3.5" fill="#27272a"/>
+    <!-- Fill bar -->
+    <rect x="0" y="24" height="7" rx="3.5" fill="url(#barGrad)" class="bar-4" filter="url(#neonFilter)"/>
+  </g>
+</svg>

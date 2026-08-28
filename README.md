@@ -1,11 +1,11 @@
 ﻿<div align="center">
 
-# ⚡ Shreyas Vavley
-### **Software Engineer & AI Developer | AI & Full-Stack Architect**
-#### 📍 Bengaluru, India 🇮🇳 &nbsp;|&nbsp; 🎓 CSE (AIML) @ Sapthagiri NPS University
+<!-- Animated Cyberpunk Header Banner -->
+<img src="./assets/header-animation.svg" alt="Shreyas Vavley Banner" width="100%" />
 
-<br/>
+<br/><br/>
 
+<!-- Social Quick Navigation Buttons -->
 <p align="center">
   <a href="https://shreyasvavley.me"><img src="https://img.shields.io/badge/🌐_Portfolio-shreyasvavley.me-ef4444?style=for-the-badge&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/shreyas-s-v-9748a1379/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -13,7 +13,8 @@
   <a href="https://github.com/ShreyasVavley"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2800&pause=1000&color=EF4444&center=true&vCenter=true&width=750&lines=Architecting+Intelligent+Agentic+Systems+%26+RAG;AWS+Student+Builder+Campus+Leader+2026;Building+Scalable+Full-Stack+Web+%26+Civic-Tech;Specializing+in+Computer+Vision+%26+LLM+Security" alt="Typing SVG" />
+<!-- Dynamic Animated Typewriter -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=1000&color=EF4444&center=true&vCenter=true&width=750&lines=Architecting+Intelligent+Agentic+Systems+%26+RAG;AWS+Student+Builder+Campus+Leader+2026;Building+Scalable+Full-Stack+Web+%26+Civic-Tech;Specializing+in+Computer+Vision+%26+LLM+Security" alt="Typing SVG" />
 
 </div>
 
@@ -181,6 +182,20 @@ current_focus:
 
 ---
 
+### 📊 System Radar & Activity Stream
+
+<div align="center">
+  <!-- Dynamic Animated Skill Radar -->
+  <img src="./assets/skill-radar.svg" alt="System Proficiency Radar" width="100%" />
+
+  <br/><br/>
+
+  <!-- Animated Contribution Graph Snake -->
+  <img src="https://raw.githubusercontent.com/ShreyasVavley/ShreyasVavley/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="100%" />
+</div>
+
+---
+
 ### 📜 Verified Credentials & Certifications
 
 - 🏆 **Advanced Software Engineering** — *Walmart Global Tech (Forage)*
@@ -189,17 +204,6 @@ current_focus:
 - ☁️ **Introduction to Generative AI Studio** — *Google Cloud / Simplilearn*
 - 🌐 **Introduction to Cybersecurity** — *Cisco Networking Academy*
 - 🧠 **OCI 2025 AI Foundations Associate** — *Oracle University*
-
----
-
-### 📊 GitHub Activity & Metrics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ShreyasVavley&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&title_color=ef4444&icon_color=ef4444" alt="Shreyas's Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyasVavley&layout=compact&theme=tokyonight&hide_border=true&title_color=ef4444" alt="Top Languages" />
-  <br/><br/>
-  <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=ShreyasVavley&theme=tokyonight&hide_border=true&stroke=ef4444&ring=ef4444&fire=ef4444" alt="GitHub Streak" />
-</div>
 
 ---
 
