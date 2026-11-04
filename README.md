@@ -8,7 +8,7 @@
 <!-- Social Quick Navigation Buttons -->
 <p align="center">
   <a href="https://shreyasvavley.me"><img src="https://img.shields.io/badge/🌐_Portfolio-shreyasvavley.me-ef4444?style=flat-square&logoColor=white" alt="Portfolio" /></a>&nbsp;
-  <a href="https://www.linkedin.com/in/shreyas-s-v-9748a1379/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+  <a href="https://www.linkedin.com/in/shreyas-sv/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
   <a href="mailto:shreyasvavley@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" /></a>&nbsp;
   <a href="https://github.com/ShreyasVavley"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
@@ -266,7 +266,7 @@ current_focus:
 
   <p align="center">
     <a href="https://shreyasvavley.me"><img src="https://img.shields.io/badge/WEBSITE-shreyasvavley.me-ef4444?style=flat-square&logo=google-chrome&logoColor=white" alt="Website" /></a>&nbsp;
-    <a href="https://www.linkedin.com/in/shreyas-s-v-9748a1379/"><img src="https://img.shields.io/badge/LINKEDIN-SHREYAS%20S%20V-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+    <a href="https://www.linkedin.com/in/shreyas-sv/"><img src="https://img.shields.io/badge/LINKEDIN-SHREYAS%20S%20V-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
     <a href="mailto:shreyasvavley@gmail.com"><img src="https://img.shields.io/badge/EMAIL-shreyasvavley%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
   </p>
 
